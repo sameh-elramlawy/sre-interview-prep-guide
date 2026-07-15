@@ -10,8 +10,8 @@ Contributions are always welcome!
 ## Basics
 
 - [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
-- [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
-- [ ] [Processes and Threads](https://planetscale.com/blog/processes-and-threads)
+- [x] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
+- [x] [Processes and Threads](https://planetscale.com/blog/processes-and-threads)
 
 ## Linux
 
